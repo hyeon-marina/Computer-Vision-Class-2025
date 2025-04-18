@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 # Computer-Vision-Class-2025
 
 🧠 2025年の大学コンピュータビジョン授業の実践記録
 Practical projects and labs from Computer Vision class (2025)
 =======
 # 🎥 ビジョンエージェント GUI - PyQt5 × OpenCV
-
-![screenshot](./screenshot_main.jpg) <!-- スクショがあればここに追加 -->
 
 ---
 
@@ -64,26 +61,13 @@ python VisionAgentGUI.py
 ```
 VisionAgentGUI/
 │
-├── VisionAgentGUI.py         # メインGUIアプリケーション
+├── visiongui.py         # メインGUIアプリケーション
 ├── child.png                 # 標識画像：子供
 ├── elder.png                 # 標識画像：高齢者
 ├── disabled.png              # 標識画像：障がい者
 ├── README_ja.md              # 日本語README（本ファイル）
 └── requirements.txt          # （必要であれば）依存パッケージ一覧
 ```
-
----
-
-## 📷 実行イメージ
-
-| 機能 | 画面例 |
-|------|--------|
-| オリム | ![orim](./screenshots/orim.jpg) |
-| 交通弱者ゾーン | ![traffic](./screenshots/traffic.jpg) |
-| パノラマ合成 | ![panorama](./screenshots/panorama.jpg) |
-| 特殊効果 | ![effects](./screenshots/effect.jpg) |
-
-※ `screenshots/` フォルダに画像を追加することで自動的にGitHub上に表示されます。
 
 ---
 
